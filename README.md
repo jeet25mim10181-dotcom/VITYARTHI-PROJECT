@@ -1,4 +1,4 @@
-# VITYARTHI-PROJECT
+
 CLI BMI Calculator: The "Wizard Math" Edition
 
 🎯 Project Overview
